@@ -1,0 +1,23 @@
+{
+  "id": "infinix_hot8_pk",
+  "brandLabel": "Infinix",
+  "modelLabel": "Hot 8",
+  "summary": "MediaTek Helio P22 - Android 9",
+  "profile": {
+    "brand": "Infinix",
+    "manufacturer": "INFINIX MOBILITY LIMITED",
+    "model": "X650C",
+    "productName": "X650C",
+    "deviceCode": "X650C",
+    "board": "mt6762",
+    "hardware": "mt6762",
+    "boardPlatform": "mt6762",
+    "buildRelease": "9",
+    "buildSdk": 28,
+    "screenWidth": 720,
+    "screenHeight": 1600,
+    "locale": "ur-PK",
+    "timezone": "Asia/Karachi",
+    "simCountryIso": "pk"
+  }
+}
